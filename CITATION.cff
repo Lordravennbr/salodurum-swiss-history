@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use material from this research library, please cite it using the metadata below and preserve citations to the underlying historical sources."
+title: "Salodurum Swiss History"
+type: dataset
+authors:
+  - name: "Sonic Vantage Bibliotec"
+    alias: "SVB"
+repository-code: "https://github.com/Lordravennbr/salodurum-swiss-history"
+url: "https://github.com/Lordravennbr/salodurum-swiss-history"
+license: "CC-BY-4.0"
+abstract: "An independent multilingual historical research archive documenting Salodurum, the Solothurn region, and their wider historical context from the Helvetii and Roman era through the Burgundians, Alemanni, Franks, medieval Switzerland, and later historical developments."
+keywords:
+  - Salodurum
+  - Solothurn
+  - Switzerland
+  - Helvetii
+  - Roman Switzerland
+  - Burgundians
+  - Alemanni
+  - archaeology
+  - historical cartography
+  - Sonic Vantage Bibliotec
